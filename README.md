@@ -5,7 +5,7 @@
 
 -技術連接: ARDUINO觸摸感測器-->連接鱷魚夾-->銅片-->水面
 
-arduino接線: 觸摸面板上有三個接角，
+arduino接線: 觸摸面板上有三個接腳，
 gnd->接gnd
 vcc-->接5v
 sig-->接digital 2 pin
