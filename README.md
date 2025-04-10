@@ -10,6 +10,8 @@ gnd->接gnd
 vcc-->接5v
 sig-->接digital 2 pin
 
+黑色鱷魚夾 夾觸摸感測器、紅色夾銅片
+
 軟體串聯: ARDUINO數據傳輸到TOUCHDESIGNER
 
 完整成果展示: https://youtu.be/yQSta563oZM
