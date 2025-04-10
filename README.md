@@ -5,6 +5,11 @@
 
 -技術連接: ARDUINO觸摸感測器-->連接鱷魚夾-->銅片-->水面
 
+arduino接線: 觸摸面板上有三個接角，
+gnd->接gnd
+vcc-->接5v
+sig-->接digital 2 pin
+
 軟體串聯: ARDUINO數據傳輸到TOUCHDESIGNER
 
 完整成果展示: https://youtu.be/yQSta563oZM
